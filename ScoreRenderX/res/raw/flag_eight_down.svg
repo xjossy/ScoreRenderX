@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23.830"
+   height="72.397"
+   id="svg3039"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="flag_eight_down.svg">
+  <defs
+     id="defs3041" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="78.33407"
+     inkscape:cy="1034.7471"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     inkscape:snap-page="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="1.5,24.847483"
+       id="guide3078" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="23.828788,33.122998"
+       id="guide3080" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3044">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccscssssscccsccccc"
+       d="m 0,59.513483 0,-12.9249 0.83118,0 0.9351,0 1.56364,-1.6676 c 10.12489,-10.6547 14.78989,-18.4263 15.62628,-25.7719 0.0988,-1.2364 0.0669,-4.2358 -0.10386,-6.104 -0.33037,-3.6091004 -1.18448,-6.5541004 -2.27844,-9.2526004 -0.20263,-0.6286 -0.4052,-1.1325 -0.4052,-1.4598 0,-0.4052 0.30142,-1.2363 0.70652,-1.54279998 0.32711,-0.426 1.24151,-0.7273 1.76624,-0.7273 0.40516,0 1.34026,0.4259 1.66756,0.7273 0.30142,0.30649998 0.70652,1.34019998 1.53769,3.83889998 2.70134,8.1768004 2.17976,11.2164004 1.14599,17.5230004 -0.62858,3.7351 -1.96884,7.4495 -4.03643,11.6885 -1.56368,3.1066 -2.90398,5.3975 -6.73781,11.6106 -5.17409,8.2807 -7.14297,12.2132 -8.68583,16.8627 -1.03378,3.1065 -1.76628,6.9403 -1.76628,9.517 l 0,0.6286 -0.83117,0 -0.9351,0 0,-12.9457 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+       id="path58" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="bounds"
+     inkscape:label="Layer">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3083"
+       width="23.828789"
+       height="51.770317"
+       x="0"
+       y="-4.1580982" />
+  </g>
+</svg>
